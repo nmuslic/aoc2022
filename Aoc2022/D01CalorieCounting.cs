@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace Aoc2022
+﻿namespace Aoc2022
 {
     public static class Day01CalorieCounting
     {

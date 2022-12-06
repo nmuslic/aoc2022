@@ -178,6 +178,59 @@ namespace Aoc2022.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 24-66,23-25
+        ///3-3,2-80
+        ///14-80,13-20
+        ///39-78,40-40
+        ///36-90,89-90
+        ///51-94,50-50
+        ///10-72,10-98
+        ///54-81,2-90
+        ///27-84,27-85
+        ///21-57,21-57
+        ///6-55,4-5
+        ///80-87,87-90
+        ///23-71,22-90
+        ///24-37,2-36
+        ///79-91,78-91
+        ///75-92,91-93
+        ///23-80,23-81
+        ///67-94,68-94
+        ///79-85,79-81
+        ///40-88,39-89
+        ///15-75,14-76
+        ///18-77,34-78
+        ///2-99,4-93
+        ///1-74,15-75
+        ///39-82,39-81
+        ///19-91,18-84
+        ///56-87,57-86
+        ///15-72,14-71
+        ///37-88,36-87
+        ///21-24,18-23
+        ///34-83,34-34
+        ///20-95,94-95
+        ///27-75,26-80
+        ///91-93,27-92
+        ///55-66,56-62
+        ///29-31,30-89
+        ///85-95,89-99
+        ///1-2,1-3
+        ///63-64,13-64
+        ///66-95,30-86
+        ///2-73,3-74
+        ///25-99,6-25
+        ///10-28,28-87
+        ///10-42,9-43
+        ///12- [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string CampCleanupInput {
+            get {
+                return ResourceManager.GetString("CampCleanupInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to C Y
         ///B Z
         ///B Z
@@ -311,6 +364,68 @@ namespace Aoc2022.Tests.Resources {
         internal static string RockPaperScissorsInput {
             get {
                 return ResourceManager.GetString("RockPaperScissorsInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to mjpsHcssDzLTzMsz
+        ///tFhbtClRVtbhRCGBFntNTrLhqrwqWMDMTWTqMq
+        ///LltbngLGRSBgSgGRCJdSdQHvdfmQccmjSQ
+        ///lBslsZDDWdGdGpSMts
+        ///grQhDvqLQHDNGJJtbRMQQJ
+        ///HChCTnnLCgCrTZPPFzzVPcVD
+        ///ShrzjhNGrNqrhWnHHfVHbhnHbbhH
+        ///RBsvcBcDCdsRTsvgCgcPFRQpVQGQJPVFbnJfbJ
+        ///DvsTsdlCBsGLrjzmlqqz
+        ///WJJqZTgCnBLGCZBJCJnTLggTDDSDDMNdDSdbdSSsWDFfMsFf
+        ///PVjqpVHmPpvmcjhrRprFmQQffbfNbQMMsSMQNQ
+        ///cwcpRvrVlVgwtBwZqBzZ
+        ///qfJJmpqpmhsggvvpVPZCrhdFLFzZFDdLLh
+        ///CtCTBctGcGLSzZddGZSW
+        ///RlNjBCnjttBHHMMcQHCsRfsbfwgggmmJvmgfpm
+        ///ZmcgBBZhZMsnqnCPjpHPjLHp
+        ///dGbNwNtlTMTzGfNvTvdwNGVLPpQHPjLQPCpC [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string RucksackReorganizationInput {
+            get {
+                return ResourceManager.GetString("RucksackReorganizationInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to                 [B]     [L]     [S]
+        ///        [Q] [J] [C]     [W]     [F]
+        ///    [F] [T] [B] [D]     [P]     [P]
+        ///    [S] [J] [Z] [T]     [B] [C] [H]
+        ///    [L] [H] [H] [Z] [G] [Z] [G] [R]
+        ///[R] [H] [D] [R] [F] [C] [V] [Q] [T]
+        ///[C] [J] [M] [G] [P] [H] [N] [J] [D]
+        ///[H] [B] [R] [S] [R] [T] [S] [R] [L]
+        /// 1   2   3   4   5   6   7   8   9 
+        ///
+        ///move 8 from 7 to 1
+        ///move 9 from 1 to 9
+        ///move 4 from 5 to 4
+        ///move 4 from 6 to 1
+        ///move 3 from 8 to 5
+        ///move 6 from 5 to 9
+        ///move 1 from 5 to 1
+        ///move 4 from 4 to 9
+        ///move 7 from 3 to 7
+        ///move 6 from 7 to [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SupplyStacksInput {
+            get {
+                return ResourceManager.GetString("SupplyStacksInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to wzsspbssbhshchmmrmprmrfrsfrrjhjphjjtppbfflqfqppdhdbhdhbbjgghgzgsgfsfhfhvvwcwhwwnppsbsggqnnvvtffpssjfjnnltntdtdddptprppjmmqssrlrplllfrrzggbmmlmnmtnnzddfdgfdfsstbstbbzcbbcjcvvfwwwzlzssglsgllnbnmbnmbbgmmppmwwsrrzqqvgqgnqnmmswwrnnbsnnbdbwwqnwqnwwzzqwzqzjqqwbqbccjcwwjlwjwppqfqjffwddrzrjzrjzzzhchjjlqqrggzvvnlvnvjvhvnvjvbbvdvldldbbwddtsscbbhccmbmbppbmmgjggcjjlrrwjwtjwwmffgddwvdvbdbvvhchmhmdmwwbjbjcbbcmbmmslmlslsjjrnrjrjpjcjgcjcjbbwsbsbfssjzsjsggcmcsswgssbbqpbqqdsdqqztzmzpmpbmbvbjjtrjtthwhbhnbhnbnssvpvsppgrrcwrrmqq [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TuningTroubleInput {
+            get {
+                return ResourceManager.GetString("TuningTroubleInput", resourceCulture);
             }
         }
     }

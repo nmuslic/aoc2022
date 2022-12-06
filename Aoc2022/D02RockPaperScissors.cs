@@ -25,18 +25,18 @@
             string strategyScores = input.Replace("A X", "A *Z")
                                          .Replace("A Y", "A *X")
                                          .Replace("A Z", "A Y")
-                                         
+
                                          .Replace("A *X", "A X")
                                          .Replace("A *Z", "A Z")
 
                                          .Replace("C X", "C *Y")
                                          .Replace("C Y", "C *Z")
                                          .Replace("C Z", "C X")
-                                         
+
                                          .Replace("C *Y", "C Y")
                                          .Replace("C *Z", "C Z");
 
             return GetMostWins(strategyScores);
-        }
+        }     
     }
 }
