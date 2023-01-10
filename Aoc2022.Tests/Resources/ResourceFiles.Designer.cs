@@ -231,6 +231,189 @@ namespace Aoc2022.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to addx 1
+        ///noop
+        ///addx 4
+        ///noop
+        ///noop
+        ///noop
+        ///addx 6
+        ///addx -1
+        ///addx 5
+        ///noop
+        ///noop
+        ///noop
+        ///addx 5
+        ///addx -14
+        ///noop
+        ///addx 19
+        ///noop
+        ///addx 1
+        ///addx 4
+        ///addx 1
+        ///noop
+        ///noop
+        ///addx 2
+        ///addx 5
+        ///addx -27
+        ///addx 20
+        ///addx -30
+        ///addx 2
+        ///addx 5
+        ///addx 2
+        ///addx 4
+        ///addx -3
+        ///addx 2
+        ///addx 5
+        ///addx 2
+        ///addx -9
+        ///addx 1
+        ///addx 11
+        ///noop
+        ///addx -20
+        ///addx 7
+        ///addx 23
+        ///addx 2
+        ///addx 3
+        ///addx -2
+        ///addx -34
+        ///addx -2
+        ///noop
+        ///addx 3
+        ///noop
+        ///addx 3
+        ///addx 2
+        ///noop
+        ///addx 3
+        ///addx 2
+        ///addx 5
+        ///addx 2
+        ///addx -9
+        ///addx -7
+        ///addx 21
+        ///noop
+        ///addx 8
+        ///noop
+        ///addx -1
+        ///addx 3
+        ///addx -2
+        ///addx 5
+        ///addx -37
+        ///noop
+        ///addx 35
+        ///addx -31
+        ///addx 1
+        ///addx 4
+        ///addx -1
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string CathodeRayTubeInput {
+            get {
+                return ResourceManager.GetString("CathodeRayTubeInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to abcccccaaaaaacccaaaccaaaaaaaacccaaaaaaccccccccccccccccccccccccccccaaaaaaaaaaaaaacacccccccccccccccccccccccccccccccaaaaaaaacccccccccccccccccccccccccccccccccccccccccccccaaaaa
+        ///abcccccaaaaaaaacaaaaccaaaaaaccccaaaaaaccccccccccaaacccccccccccccccaaaaaaaaaaaaaaaacccccccccccccccccccccccccccccccaaaaaaaaaccccccaaaccccccccccccccccccccccccccccccccccaaaaaa
+        ///abccccaaaaaaaaacaaaaccaaaaaaccccaaaaaaaaccccccccaaaccccccccccccccccaaaaaaaaaaaaaaccccaaaccccccccccccccccccccccccccaaaaaaaaccccacaaaccccccccccccccccaaccccccccccccccccaaa [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HillClimbingAlgorithmInput {
+            get {
+                return ResourceManager.GetString("HillClimbingAlgorithmInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monkey 0:
+        ///  Starting items: 89, 84, 88, 78, 70
+        ///  Operation: new = old * 5
+        ///  Test: divisible by 7
+        ///    If true: throw to monkey 6
+        ///    If false: throw to monkey 7
+        ///
+        ///Monkey 1:
+        ///  Starting items: 76, 62, 61, 54, 69, 60, 85
+        ///  Operation: new = old + 1
+        ///  Test: divisible by 17
+        ///    If true: throw to monkey 0
+        ///    If false: throw to monkey 6
+        ///
+        ///Monkey 2:
+        ///  Starting items: 83, 89, 53
+        ///  Operation: new = old + 8
+        ///  Test: divisible by 11
+        ///    If true: throw to monkey 5
+        ///    If false: throw to monkey 3
+        ///
+        ///Monkey 3:
+        ///  Starting items: [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string MonkeyInTheMiddleInput {
+            get {
+                return ResourceManager.GetString("MonkeyInTheMiddleInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to $ cd /
+        ///$ ls
+        ///dir jmtrrrp
+        ///dir jssnn
+        ///dir lbrmb
+        ///11968 pcccp
+        ///$ cd jmtrrrp
+        ///$ ls
+        ///77968 chq.jvb
+        ///dir fmgsql
+        ///$ cd fmgsql
+        ///$ ls
+        ///dir dbnsfp
+        ///dir vvp
+        ///$ cd dbnsfp
+        ///$ ls
+        ///51021 crlq.lrj
+        ///186829 dhcrzvbr.wmn
+        ///16232 fvhn.fqm
+        ///54150 qpbqqj.rpg
+        ///$ cd ..
+        ///$ cd vvp
+        ///$ ls
+        ///179105 rrcsndz.tzp
+        ///$ cd ..
+        ///$ cd ..
+        ///$ cd ..
+        ///$ cd jssnn
+        ///$ ls
+        ///dir bphfqs
+        ///dir dbnsfp
+        ///dir pcccp
+        ///dir snr
+        ///dir zjbvwsnv
+        ///$ cd bphfqs
+        ///$ ls
+        ///110077 dhcrzvbr.wmn
+        ///$ cd ..
+        ///$ cd dbnsfp
+        ///$ ls
+        ///dir hgvh
+        ///dir jtqdcmsz
+        ///154197 rrcsndz.tzp
+        ///$ cd hgvh
+        ///$ ls
+        ///dir qjnbg
+        ///$ cd qjnbg
+        ///$ ls
+        ///dir bqzfpr
+        ///$ cd [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string NoSizeLeftOnDeviceInput {
+            get {
+                return ResourceManager.GetString("NoSizeLeftOnDeviceInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to C Y
         ///B Z
         ///B Z
@@ -368,6 +551,143 @@ namespace Aoc2022.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to R 1
+        ///L 1
+        ///U 1
+        ///L 2
+        ///U 2
+        ///D 2
+        ///U 1
+        ///R 1
+        ///D 1
+        ///R 2
+        ///D 1
+        ///U 1
+        ///D 2
+        ///R 2
+        ///L 2
+        ///R 2
+        ///D 2
+        ///R 2
+        ///D 1
+        ///L 2
+        ///U 1
+        ///R 2
+        ///U 1
+        ///L 1
+        ///D 1
+        ///R 1
+        ///L 1
+        ///D 2
+        ///L 2
+        ///U 1
+        ///R 1
+        ///L 2
+        ///U 2
+        ///D 2
+        ///L 2
+        ///R 1
+        ///L 2
+        ///U 2
+        ///L 2
+        ///D 2
+        ///U 2
+        ///D 1
+        ///L 2
+        ///D 1
+        ///L 1
+        ///D 2
+        ///R 1
+        ///D 1
+        ///R 2
+        ///D 2
+        ///U 2
+        ///D 2
+        ///L 1
+        ///R 1
+        ///D 1
+        ///L 1
+        ///U 1
+        ///L 2
+        ///R 1
+        ///U 2
+        ///L 1
+        ///D 2
+        ///L 1
+        ///D 2
+        ///U 1
+        ///L 1
+        ///D 1
+        ///R 2
+        ///L 2
+        ///R 2
+        ///L 2
+        ///D 1
+        ///U 2
+        ///L 1
+        ///U 1
+        ///R 2
+        ///D 1
+        ///R 2
+        ///L 2
+        ///D 1
+        ///R 2
+        ///U 1
+        ///D 1
+        ///L 2
+        ///R 1
+        ///U 1
+        ///D 1
+        ///L 2
+        ///D 1
+        ///L 2
+        ///U 2
+        ///R 1
+        ///L 1
+        ///D 2
+        ///U 1
+        ///D 1
+        ///U 1
+        ///R 2
+        ///L 2
+        ///R 2
+        ///L 2
+        ///U 2
+        ///L 1
+        ///U 1
+        ///L 2
+        ///R 2
+        ///L 1
+        ///U 1
+        ///R 2
+        ///U 1
+        ///L 2
+        ///D 1
+        ///U 2
+        ///D 1
+        ///L 1
+        ///U 3
+        ///D 3
+        ///L 1
+        ///D 1
+        ///L 2
+        ///D 1
+        ///R 2
+        ///U 1
+        ///D 3
+        ///R 1
+        ///U 1
+        ///D 2
+        ///U 3
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string RopeBridgeInput {
+            get {
+                return ResourceManager.GetString("RopeBridgeInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to mjpsHcssDzLTzMsz
         ///tFhbtClRVtbhRCGBFntNTrLhqrwqWMDMTWTqMq
         ///LltbngLGRSBgSgGRCJdSdQHvdfmQccmjSQ
@@ -417,6 +737,20 @@ namespace Aoc2022.Tests.Resources {
         internal static string SupplyStacksInput {
             get {
                 return ResourceManager.GetString("SupplyStacksInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 001012002320230123321232210301123012330310002132422435543131011222140442223410333011301131030221102
+        ///210021010313032103103140242443030204041353523334411152343535155001331010424342400321222130332211000
+        ///220111020130022123343304003244321141423124554224223425242425411232310410220404123040022230232012001
+        ///110001322300033003110104022024431213325443435243534332232113223514234032203314213003023330320211122
+        ///222202032101012330012433332004525555532223225141422352121223513235241131140321304343032313200003010
+        ///010010110133 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TreetopTreeHouseInput {
+            get {
+                return ResourceManager.GetString("TreetopTreeHouseInput", resourceCulture);
             }
         }
         

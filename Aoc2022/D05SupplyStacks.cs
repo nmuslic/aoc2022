@@ -13,8 +13,8 @@ namespace Aoc2022
 
             List<Stack> stacks = new();
 
-            var lastLine = startingStacks[startingStacks.Count - 1];
-            var stacksCount = startingStacks[startingStacks.Count - 1].ElementAt(lastLine.Length - 2) - '0';
+            var lastLine = startingStacks[^1];
+            var stacksCount = startingStacks[^1].ElementAt(lastLine.Length - 2) - '0';
 
             for (int i = 0; i < stacksCount; i++)
             {

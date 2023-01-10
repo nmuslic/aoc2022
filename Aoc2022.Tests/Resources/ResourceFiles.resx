@@ -124,14 +124,32 @@
   <data name="CampCleanupInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>CampCleanupInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
+  <data name="CathodeRayTubeInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>CathodeRayTubeInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="HillClimbingAlgorithmInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>HillClimbingAlgorithmInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="MonkeyInTheMiddleInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>MonkeyInTheMiddleInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="NoSizeLeftOnDeviceInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>NoSizeLeftOnDeviceInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
   <data name="RockPaperScissorsInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>RockPaperScissorsInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="RopeBridgeInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>RopeBridgeInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="RucksackReorganizationInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>RucksackReorganizationInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="SupplyStacksInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>SupplyStacksInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="TreetopTreeHouseInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>TreetopTreeHouseInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="TuningTroubleInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>TuningTroubleInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
